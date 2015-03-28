@@ -3,3 +3,4 @@ bower_components/
 dist/bundle.js
 *.swp
 *.jpg
+push.sh
