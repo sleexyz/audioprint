@@ -8,6 +8,9 @@ Must be
 - interesting
 - short (<5s) *it's a fingerprint, not a handprint!*
 
+
+Created with React, tonejs, and webpack.
+
 ## instructions
 Clone repo, `npm install`, `npm start`, and go to `localhost:8080`.
 
